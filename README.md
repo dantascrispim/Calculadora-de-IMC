@@ -1,5 +1,5 @@
 ## 🛠 Tecnologias Usadas
-HTML, CSS,JAVASCRIPT, Git e Github.
+HTML, CSS, JAVASCRIPT, Git e Github.
 
 Para acessar o site click no link: https://dantascrispim.github.io/Calculadora-de-IMC/
 
